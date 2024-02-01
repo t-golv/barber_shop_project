@@ -1,2 +1,3 @@
-# barbershopproject
- Projeto do site de Barbearia moderno
+# Barber Shop Project
+Modern Barbershop website design.
+Created for learning purposes only
